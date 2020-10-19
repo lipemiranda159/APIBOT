@@ -105,6 +105,6 @@ C:\programming\TakeBot\TakeBot\bin\Debug\netcoreapp3.0\TakeAPI.runtimeconfig.jso
 C:\programming\TakeBot\TakeBot\bin\Debug\netcoreapp3.0\TakeAPI.runtimeconfig.dev.json
 C:\programming\TakeBot\TakeBot\bin\Debug\netcoreapp3.0\TakeAPI.dll
 C:\programming\TakeBot\TakeBot\bin\Debug\netcoreapp3.0\TakeAPI.pdb
-C:\programming\TakeBot\TakeBot\obj\Debug\netcoreapp3.0\TakeAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\programming\TakeBot\TakeBot\obj\Debug\netcoreapp3.0\TakeAPI.dll
 C:\programming\TakeBot\TakeBot\obj\Debug\netcoreapp3.0\TakeAPI.pdb
+C:\programming\TakeBot\TakeBot\obj\Debug\netcoreapp3.0\TakeAPI.MvcApplicationPartsAssemblyInfo.cache

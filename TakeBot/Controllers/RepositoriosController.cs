@@ -19,8 +19,14 @@ namespace TakeBot.Controllers
         [HttpGet]
         public ActionResult Get()
         {
-             return Ok(IntegrarAPIGitHub());
-
+            try
+            {
+                return Ok(IntegrarAPIGitHub());
+            }
+            catch (Exception)
+            {
+                return BadRequest();
+            }            
         }
 
         public List<RepositorioModel> IntegrarAPIGitHub()
